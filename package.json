@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/zone117x/node-open-mining-portal",
+    "homepage": "https://github.com/bronzecoin-project/nodejs-open-mining-portal.git",
     "bugs": {
-        "url": "https://github.com/zone117x/node-open-mining-portal/issues"
+        "url": "https://github.com/bronzecoin-project/nodejs-open-mining-portal.git/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -28,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-open-mining-portal.git"
+        "url": "https://github.com/bronzecoin-project/nodejs-open-mining-portal.git.git"
     },
     "dependencies": {
         "stratum-pool": "https://github.com/bronzecoin-project/node-stratum-pool.git",
